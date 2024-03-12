@@ -1,2 +1,2 @@
-mensagem = input("digite a mensagem que deseja printar?")
-print(mensagem)
+texto = input("digite a mensagem que deseja printar?")
+print(texto)
